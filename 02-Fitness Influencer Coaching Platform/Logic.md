@@ -145,5 +145,5 @@ Each payment records:
 
 ## Files
 
-- `fitness_erd.md` - Eraser.io ERD source code
-- `FICP_ERD.png` - Exported diagram image *(export from Eraser.io and add here)*
+- `code_erd.md` - Eraser.io ERD source code
+- `FICP_ERD.png` - Exported diagram image from eraser.io
