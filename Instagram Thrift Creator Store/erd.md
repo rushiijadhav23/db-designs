@@ -7,7 +7,8 @@ users [icon: user, color: blue] {
   lname string null
   email string unique not null
   phone char(15) unique not null
-  password varchar(256)
+  password varchar(256) null
+  auth enum('local', 'google') not null
 
   createdAt timestamp
   updatedAt timestamp
