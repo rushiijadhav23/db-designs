@@ -1,3 +1,4 @@
+# Fitness Influencer Coaching Platform - ERD code
 ```
 title Fitness Influencer Coaching Platform
 users [icon: user, color: blue] {

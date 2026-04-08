@@ -1,4 +1,4 @@
-# Instagram Thrift & Handmade Store - ER Diagram
+# Instagram Thrift & Handmade Store - ER code
 ```
 title Instagram Thrift Creator Store ERD
 users [icon: user, color: blue] {
