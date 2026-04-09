@@ -1,4 +1,4 @@
-
+# Clinic Appointment and Diagnostics Platform - ERD code
 ```
 title Clinic Appointment and Diagnostics Platform
 users [icon: users, color: blue] {
